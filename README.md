@@ -1,2 +1,2 @@
-# calend-rio
+# calendario
 Calendário com C++
